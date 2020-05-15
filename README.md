@@ -71,3 +71,15 @@ viii) Activate pipeline to deploy the code.
 
 ![alt text](https://github.com/popliabhi/document-classification-test/blob/master/Model-Pipeline.png?raw=true)
 
+
+WebPage:
+
+Take user input
+
+![alt text](https://github.com/popliabhi/document-classification-test/blob/master/Input.png?raw=true)
+
+
+Output Document Label based on Model implemented
+
+![alt text](https://github.com/popliabhi/document-classification-test/blob/master/Output.png?raw=true)
+
