@@ -69,5 +69,5 @@ vii) Deployment provider: Click AWS Elastic Beanstalk. Provide an Application Na
 viii) Activate pipeline to deploy the code.
 
 
-
+![alt text](https://github.com/[ap4874]/[document-classification-test]/blob/[dev-abhi]/Model-Pipeline.png?raw=true)
 
